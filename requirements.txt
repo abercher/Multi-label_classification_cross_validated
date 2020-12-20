@@ -1,0 +1,6 @@
+gensim==3.8.*
+jupyter==1.0.*
+Keras==2.4.*
+notebook==6.0.*
+pandas==0.25.*
+tensorflow==2.3.*
