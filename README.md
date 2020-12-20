@@ -3,7 +3,7 @@
 This repo presents several approaches tested in order to perform Multi-Label classification on
 a data set made of Cross-Validated (branch of Stack-Overflow devoted to Machine Learning
 and Statistics topics) posts. The goal is to predict the tags added by the creators of the
-website. I used only the content of the posts and not the titles. The data set was found
+website. I did it in 2020. I used only the content of the posts and not the titles. The data set was found
 on Kaggle at this address:
 
 https://www.kaggle.com/stackoverflow/statsquestions
